@@ -1,2 +1,1 @@
-# Mini-Project-
-Machine learning mini project
+# MAJOR PROJECT
